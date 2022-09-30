@@ -19,6 +19,8 @@ https://github.com/liuxuanqiang/wechat-weapp-mall
 
 https://github.com/gooking/uni-app-mall  
 https://gitee.com/javazj/wechat-app-mall  
+https://github.com/EastWorld/wechat-app-mall
+
 
 
 https://github.com/tumobi/nideshop-mini-program
