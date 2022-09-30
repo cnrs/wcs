@@ -14,6 +14,9 @@ https://www.githubs.cn/real-world
 https://github.com/justjavac/awesome-wechat-weapp
 https://github.com/Tencent/wepy
 
+#简单商城
+https://github.com/liuxuanqiang/wechat-weapp-mall
+
 https://github.com/gooking/uni-app-mall  
 https://gitee.com/javazj/wechat-app-mall  
 
